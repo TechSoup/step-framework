@@ -1,12 +1,22 @@
 ---
-# rfcs/NNNN-short-title.md
-# Copy this file, rename with next RFC number, and submit as a PR
+# STEP 2 OF 2 — Full RFC document.
+#
+# Only fill this out after a maintainer has reviewed your pitch issue
+# and asked you to proceed. Link your issue number in closes_issue below.
+#
+# How to submit:
+#   1. Copy this file to rfcs/NNNN-short-title.md
+#      (use the next available number, e.g. rfcs/0003-safeguarding-digital.md)
+#   2. Fill in every section below
+#   3. Open a Pull Request — this starts the 30-day public comment period
 
 rfc_number: NNNN
 title: "[Short descriptive title]"
 status: DRAFT
 # Status values: DRAFT | PROPOSED | ACCEPTED | REJECTED | SUPERSEDED
 created: YYYY-MM-DD
+closes_issue: "#000"
+# ↑ Link to the Step 1 pitch issue this RFC was approved from
 authors:
   - name: "Your Name"
     affiliation: "Your Organization (optional)"
@@ -24,8 +34,8 @@ tier_impact: "[tier 1 | tier 2 | tier 3 | tier 4 | all tiers]"
 
 ## Motivation
 
-> What problem does this solve? What evidence (from the field, evaluator experience,
-> or CSO feedback) shows this is a real gap in the current framework?
+> What problem does this solve? What evidence (from the field, evaluator
+> experience, or CSO feedback) shows this is a real gap in the current framework?
 >
 > A criterion change without clear motivation will not pass RFC review.
 
@@ -35,9 +45,7 @@ tier_impact: "[tier 1 | tier 2 | tier 3 | tier 4 | all tiers]"
 
 > Specific changes to criteria files. Use the criterion format from
 > domains/{domain}/criteria.md. If proposing a new criterion, provide the
-> full criterion block including rubric and evidence guidance.
->
-> If proposing a change to scoring weights, show the before/after weight tables.
+> full criterion block including tier, question, scoring rubric, and evidence guidance.
 
 ---
 
@@ -48,8 +56,8 @@ tier_impact: "[tier 1 | tier 2 | tier 3 | tier 4 | all tiers]"
 > - Can assessments completed under the previous version be compared to
 >   assessments under the new version?
 > - Should any criteria IDs be deprecated vs. replaced?
-> - Does this require a MAJOR (breaking), MINOR (additive), or PATCH (clarification)
->   version bump? (See CHANGELOG.md versioning policy)
+> - Does this require a MAJOR (breaking), MINOR (additive), or PATCH
+>   (clarification) version bump? (See CHANGELOG.md versioning policy)
 
 ---
 
