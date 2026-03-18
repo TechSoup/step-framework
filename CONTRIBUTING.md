@@ -15,7 +15,7 @@ The most valuable contributions to this framework are:
 | I want to...                            | Go to                      |
 |-----------------------------------------|----------------------------|
 | Report a problem with criteria          | [Criteria Feedback]        |
-| Suggest a new criterion                 | [RFC Process]              |
+| Suggest a new criterion                 | [RFC Process](#proposing-a-new-or-changed-criterion-rfc-process) |
 | Translate criteria to another language  | [Translation Guide]        |
 | Fix a typo or clarify documentation     | [Documentation PRs]        |
 
@@ -37,19 +37,30 @@ step-framework@techsoup.org and we will open the issue on your behalf.
 
 ## Proposing a New or Changed Criterion (RFC Process)
 
-Significant changes to criteria follow a Request for Comments (RFC) process:
-
-1. Check [existing RFCs] to avoid duplicating an open discussion
-2. Copy [rfcs/template.md] and open a new file as `rfcs/NNNN-your-title.md`
-3. Submit a Pull Request — this opens the 30-day public comment window
-4. The Framework Working Group reviews and votes on acceptance
-5. Accepted RFCs are merged; criteria files are updated in the same PR
+Significant changes to criteria follow a two-step Request for Comments (RFC) process.
 
 **What needs an RFC?** Any change that affects scoring, adds/removes a criterion,
 or changes what tier a criterion applies to.
 
 **What doesn't?** Typos, clarifying language, adding examples — these go straight
 to a PR without an RFC.
+
+### Step 1 — Open a pitch issue
+
+1. Check open issues and `rfcs/` to avoid duplicating an existing discussion
+2. Open a GitHub Issue using the **RFC Proposal** template
+3. Describe the problem and your rough idea — you don't need a fully formed proposal yet
+4. A Working Group member will respond within 2 weeks
+
+### Step 2 — Submit the full RFC (after maintainer approval)
+
+Once a maintainer confirms the pitch is worth pursuing:
+
+1. Copy `rfcs/template.md` to `rfcs/NNNN-your-title.md` (use the next available number)
+2. Fill in all sections, including the `closes_issue:` field linking back to your Step 1 issue
+3. Open a Pull Request — this starts the 30-day public comment period
+4. The Framework Working Group reviews comments and votes on acceptance
+5. Accepted RFCs are merged; a follow-up PR updates the relevant criteria files
 
 ---
 

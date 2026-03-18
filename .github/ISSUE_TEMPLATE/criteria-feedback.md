@@ -28,7 +28,7 @@ assignees: ''
 
 <!-- Optional — if you have a suggested improvement, share it here.
      For significant changes (new criterion, scoring change, tier reassignment),
-     consider opening an RFC instead. -->
+     consider opening an RFC Proposal issue instead (Step 1 of the RFC process). -->
 
 ## Your context
 

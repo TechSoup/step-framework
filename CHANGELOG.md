@@ -12,7 +12,6 @@ Framework versioning follows [Semantic Versioning](https://semver.org/).
 - All 4 tiers documented (Basic, Foundation, Agency, Plus)
 - 9 of 11 assessment domains published with tiered criteria
 - Spanish translation for Governance domain (in progress)
-- RFC 0002: Proposed digital safeguarding criterion under Safeguarding domain
 
 ### Changed
 - Clarified scoring level 2 language in Financial Controls domain
