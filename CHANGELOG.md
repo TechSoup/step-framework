@@ -26,7 +26,7 @@ Initial public release of the STEP open framework.
 ### Added
 - 11 assessment domains defined: Governance, Financial Controls, Legal Compliance,
   Operational Planning and Continuity, Risk Management, Commitment to Community
-  Engagement, Data Security and Privacy, Safeguarding, Working with Implementing
+  Engagement, Data Privacy and Security, Safeguarding, Working with Implementing
   Partners, Human Resources, Program Delivery
 - 4-tier framework: Basic (Tier 1), Foundation (Tier 2), Agency (Tier 3), Plus (Tier 4)
 - Tiered criteria for 9 published domains

@@ -1,6 +1,6 @@
-# STEP Framework
+# STEP Framework — Strengthening and Tiered Evaluation Process
 
-> A shared, open standard for civil society organization (CSO) due diligence and compliance assessment.
+> A shared, open standard for civil society organization (CSO) due diligence and capacity assessment.
 
 ![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-blue.svg)
 ![Framework Version](https://img.shields.io/badge/framework-v0.1.0--alpha-orange)
@@ -18,8 +18,7 @@ duplicated, inconsistent due diligence processes. Every funder has a different c
 Every CSO fills out the same information repeatedly. Smaller, grassroots organizations
 are disproportionately burdened — and frequently locked out of funding as a result.
 
-STEP is a shared framework that defines *what* good organizational compliance looks like,
-expressed in an open standard that any funder or CSO can use.
+STEP addresses this in two ways. First, it is a **shared framework** that defines *what* good organizational capacity looks like, expressed in an open standard that any funder or CSO can use — eliminating duplicated assessment cycles. Second, and equally important, it is a **strengthening tool**: STEP functions as an organizational diagnostic, giving CSOs a clear picture of where they stand and a concrete roadmap for building capacity over time. The "S" in STEP is Strengthening — it comes first deliberately.
 
 **This repo is the framework specification itself** — the criteria, scoring rubric, and
 guidance documents that define the standard.
@@ -30,9 +29,9 @@ STEP is part of TechSoup's strategic effort to open source key components of its
 
 ---
 
-## The 11 Assessment Domains
+## The Assessment Domains
 
-STEP assesses CSOs across **11 domain areas**, each representing a critical dimension of organizational health and capacity. Domains are published as criteria files in this repo as they are finalized.
+STEP assesses CSOs across a set of **domain areas** (referred to as "streams" by TechSoup), each representing a critical dimension of organizational health and capacity. Each domain is assessed independently — a CSO can achieve different tiers in different domains, reflecting real variation in organizational maturity. Domains are published as criteria files in this repo as they are finalized.
 
 | #  | Domain                                | Status         | Folder                          |
 |----|---------------------------------------|----------------|---------------------------------|
@@ -42,7 +41,7 @@ STEP assesses CSOs across **11 domain areas**, each representing a critical dime
 | 4  | Operational Planning and Continuity   | Published | `domains/operational-planning/` |
 | 5  | Risk Management                       | Published | `domains/risk-management/`      |
 | 6  | Commitment to Community Engagement    | Published | `domains/community-engagement/` |
-| 7  | Data Security and Privacy             | Published | `domains/data-security-privacy/`|
+| 7  | Data Privacy and Security             | Published | `domains/data-privacy-security/`|
 | 8  | Safeguarding                          | Published | `domains/safeguarding/`         |
 | 9  | Working with Implementing Partners    | Published | `domains/implementing-partners/`|
 | 10 | Human Resources                       | Coming Soon    | `domains/human-resources/`      |
@@ -54,7 +53,7 @@ STEP assesses CSOs across **11 domain areas**, each representing a critical dime
 
 ## The Four Tiers
 
-STEP uses a tiered model so that small, grassroots organizations can participate without being held to the same compliance requirements as large, established agencies. Each tier has minimum requirements across the assessment domains.
+STEP uses a tiered model so that small, grassroots organizations can participate without being held to the same compliance requirements as large, established agencies. Each domain is scored independently — a CSO receives a tier rating per domain, not a single org-wide tier. This reflects the reality that organizations often have stronger capacity in some areas than others.
 
 | Tier   | Name         | Target CSO Profile                          | Typical Use Case                              |
 |--------|--------------|---------------------------------------------|-----------------------------------------------|
@@ -63,8 +62,7 @@ STEP uses a tiered model so that small, grassroots organizations can participate
 | Tier 3 | **Agency**      | Mature CSOs with robust internal systems    | Institutional funding, large grants           |
 | Tier 4 | **Plus**        | Large-scale, high-capacity organizations    | Major institutional funding, UN contracts     |
 
-The tiers are additive — Tier 2 includes all Tier 1 requirements plus additional criteria.
-A Tier 3 assessment subsumes Tiers 1 and 2. See [docs/tiered-framework.md](docs/tiered-framework.md) for the full design rationale, and `domains/` for the minimum requirements at each tier.
+Within each domain, the tiers are additive — Tier 2 criteria include all Tier 1 requirements plus additional standards. Funders specify which tier(s) they accept across the relevant domains for a given funding opportunity. See [docs/tiered-framework.md](docs/tiered-framework.md) for the full design rationale.
 
 ---
 

@@ -1,15 +1,15 @@
 ---
-domain: data-security-and-privacy
+domain: data-privacy-and-security
 version: 0.1.0
 maintainer: Framework Working Group
 last_reviewed: 2025-09-01
 source: STEP Tiering Summary Guidelines (Updated Sept. 2025)
 ---
 
-# Data Security and Privacy — Assessment Criteria
+# Data Privacy and Security — Assessment Criteria
 
-This domain assesses whether the CSO takes adequate steps to protect data,
-ensure cybersecurity, and maintain privacy of sensitive information.
+This domain assesses whether the CSO takes adequate steps to protect the privacy
+of sensitive information and maintain cybersecurity across its systems and devices.
 
 ---
 

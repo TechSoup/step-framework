@@ -20,7 +20,7 @@ closes_issue: "#000"
 authors:
   - name: "Your Name"
     affiliation: "Your Organization (optional)"
-domain: "[governance | financial-controls | legal-compliance | operational-planning | risk-management | community-engagement | data-security-privacy | safeguarding | implementing-partners | human-resources | program-delivery | cross-domain]"
+domain: "[governance | financial-controls | legal-compliance | operational-planning | risk-management | community-engagement | data-privacy-security | safeguarding | implementing-partners | human-resources | program-delivery | cross-domain]"
 tier_impact: "[tier 1 | tier 2 | tier 3 | tier 4 | all tiers]"
 ---
 
