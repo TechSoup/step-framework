@@ -104,22 +104,31 @@ Read [CONTRIBUTING.md](CONTRIBUTING.md) for full details. No coding required for
 
 ## Acknowledgements
 
-<!-- TODO: Melvinto provide full acknowledgements content from the Word overview document -->
+<!-- TODO: Melvin to review and expand with full acknowledgements from the Word overview document -->
 
 STEP has been developed through the collaborative effort of many individuals and organizations across the global civil society ecosystem. We are grateful to all contributors, reviewers, pilot participants, and the regional partner organizations who have shaped this framework.
 
 **Framework Development Lead**
 - Melvin Chibole, TechSoup Global Network
 
-**Contributing Organizations**
+**Key Contributors**
+- [Martha Lackritz-Peltier](https://www.linkedin.com/in/martha-lackritz-peltier/)
+- [Caroline Burrage](https://www.linkedin.com/in/caroline-burrage/)
+
+**Funders and Supporting Organizations**
+- [Conrad N. Hilton Foundation](https://www.hiltonfoundation.org/)
+- [Amplify Change](https://amplifychange.org/)
 - TechSoup Global Network
-<!-- Additional organizations to be added by Melvin -->
 
-**Regional Partners and Reviewers**
-<!-- To be completed from the Word overview document -->
+**The Compliance Conundrum Collaboration**
 
-**Pilot Participants**
-<!-- To be completed from the Word overview document -->
+STEP emerged in part from the work of the [Compliance Conundrum Collaboration](https://catalystnow.net/collaborations/compliance-conundrum/) — a joint initiative convened by Catalyst Now to reform risk and due diligence frameworks to better support locally-led development. The Collaboration brought together the Conrad N. Hilton Foundation, TechSoup, EPIC-Africa, KujaLink/ADESO, and Warande Advisory to harmonize due diligence processes and advance more equitable, trust-based funding for local civil society actors. Their collective work directly informed the design principles underlying STEP.
+
+<!-- **Regional Partners and Reviewers**
+To be completed from the Word overview document -->
+
+<!-- **Pilot Participants**
+To be completed from the Word overview document -->
 
 > Full acknowledgements are being compiled and will be expanded as STEP moves from alpha to general release. If you have contributed to STEP and are not listed here, please open an issue or contact the maintainers.
 
