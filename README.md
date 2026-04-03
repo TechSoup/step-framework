@@ -1,3 +1,10 @@
+---
+layout: default
+title: STEP Framework
+description: "Strengthening and Tiered Evaluation Process — an open standard for civil society organization due diligence and capacity assessment."
+nav_order: 1
+---
+
 # STEP Framework — Strengthening and Tiered Evaluation Process
 
 > A shared, open standard for civil society organization (CSO) due diligence and capacity assessment.

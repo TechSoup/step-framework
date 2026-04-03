@@ -1,0 +1,23 @@
+title: STEP Framework
+description: "Strengthening and Tiered Evaluation Process — an open standard for civil society organization due diligence and capacity assessment."
+baseurl: "/step-framework"
+url: "https://techsoup.github.io"
+
+theme: minima
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+# Include dotfiles and non-standard dirs
+include:
+  - domains
+  - docs
+  - rfcs
+
+# Exclude non-documentation files from the Pages build
+exclude:
+  - "*.py"
+  - translations/
+  - FUNDING.yml
+  - .gitignore
