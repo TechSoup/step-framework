@@ -116,7 +116,8 @@ Read [CONTRIBUTING.md](CONTRIBUTING.md) for full details. No coding required for
 STEP has been developed through the collaborative effort of many individuals and organizations across the global civil society ecosystem. We are grateful to all contributors, reviewers, pilot participants, and the regional partner organizations who have shaped this framework.
 
 **Framework Development Lead**
-- Melvin Chibole, TechSoup Global Network
+- [Melvin Chibole](https://www.linkedin.com/in/melvin-chibole-bb835720)
+- [TechSoup Africa](https://www.techsoupafrica.org/en)
 
 **Key Contributors**
 - [Martha Lackritz-Peltier](https://www.linkedin.com/in/martha-lackritz-peltier/)
@@ -125,7 +126,7 @@ STEP has been developed through the collaborative effort of many individuals and
 **Funders and Supporting Organizations**
 - [Conrad N. Hilton Foundation](https://www.hiltonfoundation.org/)
 - [Amplify Change](https://amplifychange.org/)
-- TechSoup Global Network
+- [TechSoup](https://step.techsoup.org)
 
 **The Compliance Conundrum Collaboration**
 
