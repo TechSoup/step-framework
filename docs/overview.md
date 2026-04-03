@@ -1,3 +1,9 @@
+---
+layout: default
+title: Framework Overview
+nav_order: 3
+---
+
 # STEP Framework Overview
 
 **[Visit the STEP landing page on TechSoup](https://step.techsoup.org)**

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Contributing
+nav_order: 7
+---
+
 # Contributing to STEP
 
 **You do not need to know how to code to contribute.**

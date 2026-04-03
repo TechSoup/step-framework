@@ -3,6 +3,7 @@ layout: default
 title: Assessment Domains
 description: "STEP assesses civil society organizations across a set of domain areas, each representing a critical dimension of organizational health and capacity."
 nav_order: 2
+has_children: false
 ---
 
 # Assessment Domains

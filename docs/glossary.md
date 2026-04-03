@@ -1,3 +1,9 @@
+---
+layout: default
+title: Glossary
+nav_order: 6
+---
+
 # Glossary
 
 Definitions used throughout the STEP framework (Strengthening and Tiered Evaluation Process).

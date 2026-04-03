@@ -1,3 +1,9 @@
+---
+layout: default
+title: Tiered Framework Design
+nav_order: 4
+---
+
 # Tiered Framework Design
 
 ## Why Tiers?

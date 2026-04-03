@@ -3,13 +3,28 @@ description: "Strengthening and Tiered Evaluation Process — an open standard f
 baseurl: "/step-framework"
 url: "https://techsoup.github.io"
 
-theme: minima
+remote_theme: just-the-docs/just-the-docs@v0.10.0
 
 # Build settings
 markdown: kramdown
 highlighter: rouge
 
-# Include dotfiles and non-standard dirs
+plugins:
+  - jekyll-remote-theme
+
+# just-the-docs settings
+color_scheme: light
+search_enabled: true
+aux_links:
+  "View on GitHub":
+    - "https://github.com/TechSoup/step-framework"
+  "Support STEP":
+    - "https://www.every.org/techsoup"
+aux_links_new_tab: true
+
+footer_content: 'Licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>. Maintained by <a href="https://techsoup.org">TechSoup Global Network</a>.'
+
+# Include non-standard dirs
 include:
   - domains
   - docs
@@ -21,3 +36,35 @@ exclude:
   - translations/
   - FUNDING.yml
   - .gitignore
+  - CLAUDE.md
+  - CODE_OF_CONDUCT.md
+  - SECURITY.md
+
+# Bulk-apply front matter defaults so criteria files and
+# other non-nav content are excluded from the sidebar
+# without needing to edit every file individually.
+defaults:
+  # All criteria files — render as pages but hide from nav
+  - scope:
+      path: "domains/*/criteria.md"
+    values:
+      layout: default
+      nav_exclude: true
+  # Domain README stubs — hide from nav
+  - scope:
+      path: "domains/*/README.md"
+    values:
+      layout: default
+      nav_exclude: true
+  # RFC template and any submitted RFCs — hide from nav
+  - scope:
+      path: "rfcs/"
+    values:
+      layout: default
+      nav_exclude: true
+  # README.md at root — rendered by GitHub code view,
+  # not needed as a separate web nav entry (index.md handles root)
+  - scope:
+      path: "README.md"
+    values:
+      nav_exclude: true

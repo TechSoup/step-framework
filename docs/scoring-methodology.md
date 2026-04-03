@@ -1,3 +1,10 @@
+---
+layout: default
+title: Scoring Methodology
+nav_order: 5
+nav_exclude: false
+---
+
 # Scoring Methodology
 
 > **STATUS: DRAFT — NEEDS VALIDATION**

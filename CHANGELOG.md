@@ -1,3 +1,9 @@
+---
+layout: default
+title: Changelog
+nav_order: 8
+---
+
 # Changelog
 
 All notable changes to the STEP framework are documented here.
