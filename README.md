@@ -111,32 +111,34 @@ Read [CONTRIBUTING.md](CONTRIBUTING.md) for full details. No coding required for
 
 ## Acknowledgements
 
-<!-- TODO: Melvin to review and expand with full acknowledgements from the Word overview document -->
-
 STEP has been developed through the collaborative effort of many individuals and organizations across the global civil society ecosystem. We are grateful to all contributors, reviewers, pilot participants, and the regional partner organizations who have shaped this framework.
 
 **Framework Development Lead**
 - [Melvin Chibole](https://www.linkedin.com/in/melvin-chibole-bb835720)
-- [TechSoup Africa](https://www.techsoupafrica.org/en)
+- [TechSoup](https://step.techsoup.org)
 
 **Key Contributors**
 - [Martha Lackritz-Peltier](https://www.linkedin.com/in/martha-lackritz-peltier/)
 - [Caroline Burrage](https://www.linkedin.com/in/caroline-burrage/)
+- [Lynnette Micheni](https://www.linkedin.com/in/lynnette-micheni/)
+- [Tamara Dalloul](https://www.linkedin.com/in/tamara-dalloul-4b2532a9/)
+- [Olga Bergstrom](https://www.linkedin.com/in/olgabergstrom/)
+- Con Stanimeros
+- [Kevin Maina](https://www.linkedin.com/in/kevin-maina-1a22b739/)
+- [Joyce Kabene](https://www.linkedin.com/in/joyce-kabene-29234036/)
 
 **Funders and Supporting Organizations**
 - [Conrad N. Hilton Foundation](https://www.hiltonfoundation.org/)
+- [Humanity United](https://humanityunited.org/)
+- [Start Network](https://startnetwork.org/)
 - [Amplify Change](https://amplifychange.org/)
-- [TechSoup](https://step.techsoup.org)
+- [The Compliance Conundrum Collaborative](https://catalystnow.net/collaborations/compliance-conundrum/#nav-details-tab)
 
-**The Compliance Conundrum Collaboration**
+**Key Community Partners**
 
-STEP emerged in part from the work of the [Compliance Conundrum Collaboration](https://catalystnow.net/collaborations/compliance-conundrum/) — a joint initiative convened by Catalyst Now to reform risk and due diligence frameworks to better support locally-led development. The Collaboration brought together the Conrad N. Hilton Foundation, TechSoup, EPIC-Africa, KujaLink/ADESO, and Warande Advisory to harmonize due diligence processes and advance more equitable, trust-based funding for local civil society actors. Their collective work directly informed the design principles underlying STEP.
-
-<!-- **Regional Partners and Reviewers**
-To be completed from the Word overview document -->
-
-<!-- **Pilot Participants**
-To be completed from the Word overview document -->
+- [Kenya Community Development Foundation](https://kcdf.or.ke/)
+- [West Africa Civil Society Institute](https://wacsi.org/)
+- [Phambano Technology Development Centre](https://www.phambano.org.za/)
 
 > Full acknowledgements are being compiled and will be expanded as STEP moves from alpha to general release. If you have contributed to STEP and are not listed here, please open an issue or contact the maintainers.
 
